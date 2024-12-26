@@ -1,6 +1,6 @@
-# GameGear Customz
+# Kick Customz
 
-GameGear Customz is a landing page for customized gaming accessories, designed to provide gamers with personalized gear to enhance their gaming experience. Built using React, Tailwind CSS, and Vite, this project offers a fast, interactive, and responsive user experience.
+Kick Customz is a landing page for customized products, designed to provide customers with personalized gear to enhance their day-to-day experience. Built using React, Tailwind CSS, and Vite, this project offers a fast, interactive, and responsive user experience.
 
 ## Table of Contents
 
@@ -42,13 +42,13 @@ Ensure you have the following installed on your system:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/gamegear-customz.git
+   git clone https://github.com/Nikhil-Sorout/KickCustomz.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd gamegear-customz
+   cd KickCustomz
    ```
 
 3. **Install project dependencies**:
